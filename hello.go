@@ -8,6 +8,7 @@ func main() {
 	fmt.Println("Hello yeeee")
 	fmt.Println("superman")
 	fmt.Println("superman1")
+	fmt.Println("superman2")
 }
 
 //!-
