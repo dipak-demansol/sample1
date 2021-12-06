@@ -10,6 +10,7 @@ func main() {
 	fmt.Println("superman1")
 	fmt.Println("superman2")
 	fmt.Println("superman3")
+	fmt.Println("superman4")
 }
 
 //!-
